@@ -1,12 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# GTA VI - Web Animation Concepts
 
-Currently, two official plugins are available:
+  A creative exploration of advanced web animations inspired by the aesthetic of Grand Theft Auto VI. This project was built to showcase complex frontend visual effects and push the boundaries of what's possible with modern web technologies. The primary focus is on creating an immersive, cinematic animation experience for desktop users.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a non-responsive animation showcase and is not a functional website. It is intended for viewing on desktop screens for the optimal experience.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Features
+
+- Cinematic Intro Sequence: An engaging loading animation powered by a GSAP timeline.
+
+- Smooth Scene Transitions: Seamless animations between different visual concepts and scenes.
+
+- Interactive UI Elements: Hover effects and micro-interactions that enhance the visual showcase.
+
+- Dynamic Backgrounds: Integration of video and animated elements to create a rich, dynamic atmosphere.
+
+
+## Demo
+
+Demo of the website -> https://gxpwkh-5173.csb.app/
+
+
+## Screenshots
+
+![App Screenshot] (https://github.com/Chirag2440/gta_6_app/blob/9353c4a6821ae2563a678cfca74791930638967d/Screenshot%202025-08-11%20110621.png)
+
+[App Screenshot] (https://github.com/Chirag2440/gta_6_app/blob/9353c4a6821ae2563a678cfca74791930638967d/Screenshot%202025-08-11%20110655.png)
